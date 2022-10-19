@@ -1,0 +1,8 @@
+body{
+    background-color: gray;
+}
+
+.huge{
+    font-size: 10rem;
+    font-weight: bolder;
+}
